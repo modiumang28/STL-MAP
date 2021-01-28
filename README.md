@@ -1,3 +1,3 @@
 # STL-MAP
 
-Implementation of HashMap data structure from scratch
+Implementation of HashMap data structure from scratch.
